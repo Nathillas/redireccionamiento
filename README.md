@@ -11,5 +11,10 @@
 
 * Usuarios conectados
 
+Terminal:
+
+![Terminal](img/terminal.png)
+
 Imagen del Script ejecutado con exito:
 
+![Script](img/script.png)
